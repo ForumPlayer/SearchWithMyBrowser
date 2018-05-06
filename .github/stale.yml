@@ -1,6 +1,0 @@
-﻿daysUntilStale: 7
-daysUntilClose: 3
-exemptLabels:
-  - bug
-  - enhancement
-staleLabel: waiting-reply
